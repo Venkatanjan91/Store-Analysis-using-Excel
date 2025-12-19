@@ -86,7 +86,7 @@ To demonstrate the ability to:
 
 ## 📸 Dashboard Preview
 
-![Vrinda Store Dashboard]()
+### Vrinda Store Dashboard
 
 <img width="1868" height="744" alt="Screenshot 2025-12-18 161653" src="https://github.com/user-attachments/assets/6c86acb0-c356-4b34-b618-071068fd8472" />
 
